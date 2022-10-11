@@ -1,3 +1,5 @@
 class gitdemo{
-public static void ma
+public static void main(){
+sout("Hello world");
+}
 }
