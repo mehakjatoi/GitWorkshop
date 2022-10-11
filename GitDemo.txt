@@ -1,5 +1,5 @@
 class gitdemo{
 public static void main(){
-sout("Hello world");
+sout("Git dEmo");
 }
 }
